@@ -1,5 +1,3 @@
-## Hi World! I'm Putu Bhisma Parasurama 👋
-
 <!--
 **bhismaparasurama/bhismaparasurama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Putu Bhisma Parasurama](./img/header_github.png)
