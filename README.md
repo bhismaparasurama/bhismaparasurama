@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### hsloooo
+
 <div>
-    <img src="./img/header_github.png" style="width: 100%;">
+    <img src="./img/header_github.png">
 </div>
 
 <div>
-    <h1 style="text-align: center;" >My Skills</h1>
-    <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center;">
+    <h1 align="center">My Skills</h1>
+    <div align="center">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
@@ -39,5 +39,3 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     </div>
 </div>
-
-<div style="background-color: black; height: 1px; margin-top: 20px;"></div>
