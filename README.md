@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-    <h1 align="center">My Skills</h1>
-    <div align="center">
+    <h1>My Skills</h1>
+    <div>
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
