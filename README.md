@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Putu Bhisma Parasurama](./img/header_github.png)
 
 ### My Skills
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
