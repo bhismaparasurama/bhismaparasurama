@@ -1,5 +1,4 @@
 ## Hi World! I'm Putu Bhisma Parasurama 👋
-![Putu Bhisma Parasurama](img/screencapture-localhost-bhisma-kitchen-view-admin-dashboard-admin-php-2025-05-21-08_32_45.png)
 
 <!--
 **bhismaparasurama/bhismaparasurama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently school in **SMK Negeri 1 Mas Ubud**
-- 🌱 I’m currently learning [**Tailwind**](https://tailwindcss.com/) and [**React JS**](https://react.dev/)😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊
-![Thinking](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFqM3N1dDVvdTBlNDBoeHkweGc1ZjFnbWZiN25xajY1ZXZxMmFqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tXL4FHPSnVJ0A/giphy.gif)
