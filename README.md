@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <img src="./img/header_github.png">
 
 # About me
-🧑‍💻 My name is Putu Bhisma Parasurama
-🏫 I'm currently school in SMK Negeri 1 Mas Ubud
-🍃 I'm currently learning Laravel, Tailwind CSS, and React JS
-📍 Camenggaon Village  
-🚀 Fullstack Developer 
-🏸 Playing Badminton
+- 🧑‍💻 My name is Putu Bhisma Parasurama
+- 🏫 I'm currently school in SMK Negeri 1 Mas Ubud
+- 🍃 I'm currently learning Laravel, Tailwind CSS, and React JS
+- 📍 Camenggaon Village  
+- 🚀 Fullstack Developer 
+- 🏸 Playing Badminton
 
 # My Skills
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
