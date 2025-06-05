@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 # About me
 🧑‍💻 My name is Putu Bhisma Parasurama
 🏫 I'm currently school in SMK Negeri 1 Mas Ubud
-🍃 I'm currently learning [Laravel](https://laravel.com/) [Tailwind CSS](https://tailwindcss.com/) and [React JS](https://react.dev/)
+🍃 I'm currently learning Laravel, Tailwind CSS, and React JS
 📍 Camenggaon Village  
-🚀 My dream is to make my parents happy and to contribute to the country, especially in the technology sector. 
-🏸 My hobby is playing Badminton
+🚀 Fullstack Developer 
+🏸 Playing Badminton
 
 # My Skills
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
