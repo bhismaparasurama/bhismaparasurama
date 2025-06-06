@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 # Other
 [![Other](https://skillicons.dev/icons?i=bootstrap,css,dotnet,figma,git,github,html,htmx,js,jquery,laravel,mysql,nodejs,php,postman,powershell,sass,tailwind,visualstudio,vscode,)](https://skillicons.dev)
 
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/bhismaparasurama/count.svg?"  />
 </div>
@@ -60,10 +62,3 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/bhismaparasurama/bhismaparasurama/output/snake.svg" alt="Snake animation" />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhismaparasurama/bhismaparasurama/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhismaparasurama/bhismaparasurama/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhismaparasurama/bhismaparasurama/output/pacman-contribution-graph.svg">
-</picture>
