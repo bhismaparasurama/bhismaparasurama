@@ -54,11 +54,5 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhismaparasurama/count.svg?"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/bhismaparasurama/bhismaparasurama/output/snake.svg" alt="Snake animation" />
 
